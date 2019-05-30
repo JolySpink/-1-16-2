@@ -1,0 +1,39 @@
+
+
+
+.round  {
+    width: 100px;
+    height: 250px;
+    position: relative;
+    left: 800px;
+    background: #fff56f;
+}
+
+.round1  {
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    left: 400px;
+    top: -130px;
+
+    background: #4b89ff;
+}
+
+
+.round2  {
+    width: 100px;
+    height: 250px;
+    position: relative;
+    left: 800px;
+    top: -120px;
+    background: #29ffcc;
+}
+.round3  {
+    width: 100px;
+    height: 150px;
+    position: relative;
+    left: 400px;
+
+    top: -150px;
+    background: #7700ff;
+}
