@@ -43,11 +43,12 @@ $summ=$a+$b+$c;
 $summ2=$summ/3;
 $summ3=$summ/$summ2;
 print ($summ3);
+echo '<br>';
 //cpc 5
 $a=17;
 $b=10;
 $d=17;
-$c=$a+$b;
+$c=$a-$b;
 $result2=$c+$d;
 print ($result2);
 echo '<br>';
